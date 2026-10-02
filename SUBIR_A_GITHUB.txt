@@ -1,0 +1,8 @@
+1. Descomprime este ZIP.
+2. Sube EL CONTENIDO directamente a la raiz de un repositorio GitHub nuevo.
+3. Comprueba que streamlit_app.py aparece en la primera pantalla del repositorio.
+4. En Streamlit Community Cloud crea una app con:
+   Branch: main
+   Main file path: streamlit_app.py
+5. NO añadas DATABASE_URL, Neon ni Secrets de la app real.
+6. Pulsa Deploy.
